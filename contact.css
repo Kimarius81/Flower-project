@@ -1,0 +1,22 @@
+
+body{
+    background: none;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+.contact-column{
+    width: 50%;
+    float: right;    
+}
+.footer {
+    background-color: #3D0013;
+    color: white;
+    height: 80px;
+    width: 100%
+    
+
+}
+   
